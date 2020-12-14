@@ -1,6 +1,6 @@
 # PiMusicBox escrito en C
 
-Es un juguete musical, es decir con una RaspberryPi, un lector de tarjetas RFID, un optoacoplador y un speaker + Hardware (utilizando una placa de inserción) conseguimos que mediante la inserción de tarjetas se reproduzcan melodias tales como despacito, GoT y Tetris.
+Se trata de un "juguete musical" compuesto por una RaspberryPi, un lector de tarjetas RFID, un optoacoplador y un speaker + Hardware (utilizando una placa de inserción)  que mediante la inserción de tarjetas se reproduzcan melodias tales como despacito, GoT y Tetris.
 
 ## Inserción de las tarjetas. ¿Cómo se juega?
 
